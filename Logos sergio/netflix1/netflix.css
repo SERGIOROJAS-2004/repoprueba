@@ -1,0 +1,32 @@
+body{
+    background: black;
+    
+}
+
+.total{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.izq{
+    width: 5vh;
+    height: 30vh;
+    background: rgb(213, 47, 47);
+    display: inline-flex;
+}
+
+.cen{
+    width: 5vh;
+    height: 30vh;
+    background: red;
+    display: inline-flex;
+    transform: skew(20deg);
+}
+
+.der{
+    width: 5vh;
+    height: 30vh;
+    background: rgb(213, 47, 47);
+    display: inline-flex;
+}
